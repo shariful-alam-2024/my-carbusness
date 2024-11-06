@@ -1,0 +1,132 @@
+*{
+      margin: 0;
+      padding: 0;
+}
+ul li {
+      color:  #0D0A19 !important;
+      font-weight:600;
+      font-size: 16px;
+}
+
+.person-fill{
+      padding: 5px;
+      background-color:#f5f6f7;
+      border-radius: 7px;
+      
+}
+.NavbarButton span{
+      color:  #9A9EA7;
+      font-size: 14px;
+      line-height: 21px;
+      font-weight: 600;
+      letter-spacing: -0.1px;
+      /* gap: 3px; */
+}
+.para{
+      color: #9A9EA7;
+
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 24px;
+      
+}
+
+.hero{
+     color:#0D0A19 ;
+     font-size: 64px;
+     font-weight: 700;
+     line-height: 48px;
+
+}
+.myButton button{
+     font-weight: 600;
+     font-size: medium;
+     padding: 8px 20px 8px 20px;
+     margin-top: 30px;
+    
+
+
+}
+.primary {
+      background-color: #7963F0!important;
+}
+.secondary{
+      background-color: #9A9EA7 !important;
+}
+/*  */
+.dropdown {
+      float: right;
+      
+
+}
+.dropdown .dropbtn {
+      border: none;
+      color: black;
+      padding: 14px 20px;
+      background-color:white;
+      font-size: 16px;
+      cursor: pointer;
+      transition: background-color 0.3s, color 0.3s;
+}
+.dropdown .dropbtn:hover {
+      background-color: blue;
+      color: azure;
+}
+.dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: aquamarine;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+.dropdown-content a{
+      float: none;
+      color: aliceblue;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      text-align: left;
+      transition: background-color 0.3s,color 0.3s;
+}
+.dropdown-content a:hover {
+      background-color: cadetblue;
+      color: azure;
+}
+.dropdown:hover .dropdown-content{
+      display: block;
+}
+
+.myDom{
+      height: 32px;
+      width: 1px;
+}
+
+
+
+.margin{
+      margin-top: 30px;
+}
+
+
+.fa-search{
+      align-items: center;
+      width: 120px;
+      height: 46px;
+      background-color: #7963F0;
+      border-radius: 10px;
+      
+}
+.fa-search span{
+      font-weight: 700;
+      font-size: 14px;
+      line-height: 21px;
+      color: #FFFFFF;
+}
+.Trending{
+      color: #0D0A19;
+      font-size: 28px;
+      line-height: 36px;
+      margin-top: 100px;
+      margin-bottom: 60px;
+      font-weight: 700;
+}
